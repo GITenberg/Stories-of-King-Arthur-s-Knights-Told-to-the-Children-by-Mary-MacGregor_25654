@@ -1,0 +1,51 @@
+_repo: Stories-of-King-Arthur-s-Knights-Told-to-the-Children-by-Mary-MacGregor_25654
+_version: 0.1.0
+contributor:
+  contributor:
+    agent_name: Malory, Thomas, Sir
+    deathdate: 1471
+    gutenberg_agent_id: '573'
+    url: http://www.gutenberg.org/2009/agents/573
+    wikipedia: http://en.wikipedia.org/wiki/Thomas_Malory
+  illustrator:
+    agent_name: Cameron, Katharine
+    aliases:
+    - Cameron, Katherine
+    - Cameron, Catherine
+    birthdate: 1874
+    deathdate: 1965
+    gutenberg_agent_id: '8229'
+    url: http://www.gutenberg.org/2009/agents/8229
+covers:
+- cover_type: archival
+  image_path: 25654-h/images/icovertn3a.jpg
+creator:
+  author:
+    agent_name: MacGregor, Mary Esther Miller
+    alias: Keith, Marian
+    birthdate: 1876
+    deathdate: 1961
+    gutenberg_agent_id: '712'
+    url: http://www.gutenberg.org/2009/agents/712
+  editor:
+    agent_name: Chisholm, Louey
+    gutenberg_agent_id: '2485'
+    url: http://www.gutenberg.org/2009/agents/2485
+description: ''
+gutenberg_bookshelf: Arthurian Legends
+gutenberg_issued: '2008-05-31'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '25654'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Arthurian romances -- Adaptations'
+- !lcsh 'Arthur, King -- Juvenile literature'
+- !lcc 'PZ'
+tableOfContents: Geraint and Enid -- Lancelot and Elaine -- Pelleas and Ettarde --
+  Gareth and Lynette -- Sir Galahad and the Sacred cup -- The death of King Arthur.
+title: Stories of King Arthur's Knights, Told to the Children by Mary MacGregor
+url: http://www.gutenberg.org/ebooks/25654
