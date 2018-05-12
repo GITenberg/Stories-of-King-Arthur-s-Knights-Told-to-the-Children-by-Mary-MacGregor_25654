@@ -32,6 +32,8 @@ creator:
     gutenberg_agent_id: '2485'
     url: http://www.gutenberg.org/2009/agents/2485
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/25654#Stories-of-King-Arthur-s-Knights-Told-to-the-Children-by-Mary-MacGregor
 gutenberg_bookshelf: Arthurian Legends
 gutenberg_issued: '2008-05-31'
 gutenberg_type: Text
